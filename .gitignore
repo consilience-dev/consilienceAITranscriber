@@ -1,0 +1,39 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Transcripts and outputs
+*.json
+*.txt
+
+# Audio/video files
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+
+# Test outputs
+.coverage
+htmlcov/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# Logs
+*.log
