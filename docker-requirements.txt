@@ -1,0 +1,16 @@
+# Core dependencies
+torch>=2.0.0
+torchaudio>=2.0.0
+openai-whisper==20240930
+pyannote.audio==3.3.2
+pydub>=0.25.1
+numpy>=1.24.0
+ffmpeg-python>=0.2.0
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utilities
+tqdm>=4.66.1
+matplotlib>=3.7.2

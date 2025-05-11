@@ -1,0 +1,50 @@
+# Video/Audio Files
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Transcripts and outputs
+*-transcript.json
+*-transcript.txt
+
+# Development artifacts
+.git/
+.github/
+.gitignore
+.DS_Store
+Thumbs.db
+
+# Infrastructure code (not needed in the container)
+cdk/
+.aws/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo

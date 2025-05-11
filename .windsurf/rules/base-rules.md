@@ -33,3 +33,6 @@ Clearly describe APIs, expected inputs/outputs, and how modules interact. Use RE
 
 ## Wait for command prompt to finish
 Always wait for any command line executions to finish and ensure you have all the output so that you can interpret it.
+
+## Make sure the person you're chatting with understand all concepts.
+Always take the time to make sure that the person you're talking to has a good understanding of all the concepts you're using.

@@ -1,0 +1,1186 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "for college course.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 2.0,
+      "end": 13.0,
+      "text": "I know I would just say like I feel like I'm a quick learner and like could like kind of take stuff into account and I have notes on it.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "So, for sure.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "I guess it's repetition.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Yeah, the reason I was bringing it up was wasn't because I was about to quiz you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "You know, no worries.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "It's okay.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "Yeah, so you think you know where you're going to be.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "text": "I know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "text": "I know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "If you know it's but I can learn words of shit, but yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "Well, if you do remember it all like in your college class, how like when you write the HTML, it's just kind of like the words on the screen.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 37.0,
+      "end": 38.0,
+      "text": "Yes.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 38.0,
+      "end": 47.0,
+      "text": "Like it's kind of just the content of your page, right? Like it's not like the styling and the positioning of where it is, but just like like hey, this there's going to be something that says check in.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "text": "It's going to be a title.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "text": "There's going to be something that says create account, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 51.0,
+      "end": 52.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 52.0,
+      "end": 55.0,
+      "text": "That's kind of that's all you need to know about HTML now actually.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 55.0,
+      "end": 59.0,
+      "text": "You don't really need to be able to write out the whole page in HTML. That's kind of the world we're in now.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 59.0,
+      "end": 62.0,
+      "text": "So that's kind of that's why I wanted to talk about that specifically.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "The same thing applies to the coding side of things, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 65.0,
+      "end": 71.0,
+      "text": "You don't have to know how to actually implement this stuff, but you should know that there's something that has to do with the content on the page.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 71.0,
+      "end": 75.0,
+      "text": "There's something that has to do with the styling, right? Things like that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 75.0,
+      "end": 79.0,
+      "text": "So I kind of wanted to give you like a.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 79.0,
+      "end": 81.0,
+      "text": "Like a, I guess almost like a goal.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 81.0,
+      "end": 84.0,
+      "text": "Like to understand things like conceptually, you know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "text": "Does that make sense?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 85.0,
+      "end": 86.0,
+      "text": "Yeah, no, it does.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 86.0,
+      "end": 87.0,
+      "text": "Sure.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 87.0,
+      "end": 94.0,
+      "text": "So sometimes I don't know if I'm so like if I've like gotten so deep into coding myself that I don't know how to speak English anymore too.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": "So if I ever don't make sense, please go to that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 96.0,
+      "end": 97.0,
+      "text": "Okay.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 97.0,
+      "end": 100.0,
+      "text": "You've been the other night in stream to ask you new questions.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 100.0,
+      "end": 104.0,
+      "text": "Like you can articulate it and explain it in layman's terms pretty well.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "text": "Okay.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "text": "I can be proud of that.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 106.0,
+      "end": 107.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 107.0,
+      "end": 108.0,
+      "text": "Other coders would probably call me a layman.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "text": "So that's probably why.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "text": "All right.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "text": "Do you let's see?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 111.0,
+      "end": 112.0,
+      "text": "Let's see.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 115.0,
+      "end": 118.0,
+      "text": "Love how like kind of like I was talking about the anthropic website the other day.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 118.0,
+      "end": 121.0,
+      "text": "It's just got you've got your own style to your designs for you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 121.0,
+      "end": 122.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 122.0,
+      "end": 124.0,
+      "text": "Well, this is I did this while all last night.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 124.0,
+      "end": 129.0,
+      "text": "So it's like super quick and like I can make it flashy, you know, more interesting.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 129.0,
+      "end": 133.0,
+      "text": "But I kind of really to like the simplicity of it.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 133.0,
+      "end": 134.0,
+      "text": "I do it.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "text": "I hate it.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "text": "Like I hate that everything looks the same.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 136.0,
+      "end": 138.0,
+      "text": "Everyone uses the same like UI libraries.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 138.0,
+      "end": 139.0,
+      "text": "Everyone just.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 139.0,
+      "end": 140.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 140.0,
+      "end": 141.0,
+      "text": "And then like other than the looks.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 141.0,
+      "end": 143.0,
+      "text": "There's advantages, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 143.0,
+      "end": 145.0,
+      "text": "Like somebody to consider is accessibility, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 145.0,
+      "end": 150.0,
+      "text": "Like a lot of UI components are like already in built with all these accessibility features.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 150.0,
+      "end": 153.0,
+      "text": "You know, like they're already responsive to the page.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 153.0,
+      "end": 155.0,
+      "text": "But with AI, I think we can get past that now.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 155.0,
+      "end": 156.0,
+      "text": "But anyways, sorry.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 156.0,
+      "end": 157.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 157.0,
+      "end": 158.0,
+      "text": "I think you go ahead and explain.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 158.0,
+      "end": 165.0,
+      "text": "I was just going to say it's like there's like you said it's like there's the familiarity of a lot of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 165.0,
+      "end": 167.0,
+      "text": "Design styles that are happening right now.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 168.0,
+      "end": 182.0,
+      "text": "And I think people are going to start looking for more uniquely designed UI's that isn't something that's like super heavily has like a insane gradient and like flashy",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 182.0,
+      "end": 187.0,
+      "text": "corners that is a has like a like a low effect.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 187.0,
+      "end": 188.0,
+      "text": "You know what I mean?",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 188.0,
+      "end": 191.0,
+      "text": "Like a lot of stuff is like heavily over design.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 191.0,
+      "end": 196.0,
+      "text": "So for sure, as I was like making this, I'm like I kind of like just how it will be.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 196.0,
+      "end": 197.0,
+      "text": "I'm just how it looks.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 197.0,
+      "end": 201.0,
+      "text": "And I've seen your other designs like I know I know how crazy.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 201.0,
+      "end": 202.0,
+      "text": "Yeah, like I get you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 202.0,
+      "end": 210.0,
+      "text": "Yeah, that's why I really like this actually knowing that you've made like way crazy your designs made me like this even more.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 210.0,
+      "end": 211.0,
+      "text": "I don't know if that's wrong or right.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 211.0,
+      "end": 212.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 212.0,
+      "end": 216.0,
+      "text": "This is kind of the vibe I'm going for though is.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 216.0,
+      "end": 219.0,
+      "text": "It being a social platform that is.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 219.0,
+      "end": 225.0,
+      "text": "It is a quick check in like you don't go on there to scroll to do scroll through a timeline.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 225.0,
+      "end": 232.0,
+      "text": "You go in there to check in and you see on your feed that somebody did something and it's like okay you're going to click these checks and be like.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 232.0,
+      "end": 235.0,
+      "text": "Just acknowledge people.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 235.0,
+      "end": 238.0,
+      "text": "Yeah, and as a starting point.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 238.0,
+      "end": 245.0,
+      "text": "As a starting point yeah and here's what I have like kind of and I have stuff on here to you.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 245.0,
+      "end": 246.0,
+      "text": "Funny enough.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 246.0,
+      "end": 248.0,
+      "text": "The book that Alex has been.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 249.0,
+      "end": 259.0,
+      "text": "So I'm recommending to be that I need to check out but just thinking about different groups I could be utilized and building out like a simple chapter.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 259.0,
+      "end": 261.0,
+      "text": "I love that.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 261.0,
+      "end": 263.0,
+      "text": "Yeah, so it's like I did a chapter today.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 263.0,
+      "end": 271.0,
+      "text": "I read a chapter of this book today or you can go back and create your own tags of.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 271.0,
+      "end": 277.0,
+      "text": "Different things that you did but kind of layering them out into different groups.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 277.0,
+      "end": 283.0,
+      "text": "So there's a lot to be built here of course, but.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 283.0,
+      "end": 290.0,
+      "text": "I think a good starting point is to build out the.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 290.0,
+      "end": 293.0,
+      "text": "Maybe something with just creating an account.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 293.0,
+      "end": 297.0,
+      "text": "Yeah, and making a simple feed.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 297.0,
+      "end": 305.0,
+      "text": "It doesn't have to be as complex as this looks right now, but something where I can go create an account and post by first.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 305.0,
+      "end": 308.0,
+      "text": "And I think that's a lot of different things.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 308.0,
+      "end": 310.0,
+      "text": "Yeah, yeah, yeah, we can we can definitely I don't know if we'll get there in a day, but we can get there for sure.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 310.0,
+      "end": 313.0,
+      "text": "And I think by the end of it, you'll you'll know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 313.0,
+      "end": 316.0,
+      "text": "Sorry, outside man message to vibe check.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 316.0,
+      "end": 319.0,
+      "text": "Dr. Give her says 100.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 319.0,
+      "end": 324.0,
+      "text": "100% by also let me address the child quite because you explained for the YouTube.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 324.0,
+      "end": 329.0,
+      "text": "What is what what this view is how they made this et cetera.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 329.0,
+      "end": 335.0,
+      "text": "And is this a common workflow for designers to potentially make whatever this is and then vibe code it.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 335.0,
+      "end": 338.0,
+      "text": "I guess that's directed to you, but.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 338.0,
+      "end": 340.0,
+      "text": "All the second ones to me, I guess the first one.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 340.0,
+      "end": 345.0,
+      "text": "Could you explain the YouTube for the YouTube what this is what this view is and how they how you made this.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 345.0,
+      "end": 348.0,
+      "text": "Yeah, so this is in figma.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 348.0,
+      "end": 357.0,
+      "text": "And most of the time like when you're designing you, I stuff people go through wire frames and kind of create an.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 357.0,
+      "end": 365.0,
+      "text": "outline for coders to build out the UI directly and they have like this dev mode, which is super useful.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 365.0,
+      "end": 375.0,
+      "text": "And it basically takes all of this and creates it into code so you can translate it easily, which makes it really useful for kind of what might.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 376.0,
+      "end": 381.0,
+      "text": "be possible today, but.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 381.0,
+      "end": 387.0,
+      "text": "Really, it's like a way for people to just just to draft concepts ideas and.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 387.0,
+      "end": 393.0,
+      "text": "The route I usually go is I like to just design stuff.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 393.0,
+      "end": 398.0,
+      "text": "Because it's more satisfying to me instead of like creating a whole wire frame and then.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 398.0,
+      "end": 401.0,
+      "text": "It's it's just dependent on what you're building.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": "I do the coding part.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 403.0,
+      "end": 404.0,
+      "text": "It's not as fun.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 404.0,
+      "end": 405.0,
+      "text": "I'm just kidding.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 405.0,
+      "end": 407.0,
+      "text": "Yeah, I can't go.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 407.0,
+      "end": 408.0,
+      "text": "I mean, it's.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 408.0,
+      "end": 409.0,
+      "text": "I can't be a can be.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 409.0,
+      "end": 410.0,
+      "text": "I'm just messing around.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 410.0,
+      "end": 412.0,
+      "text": "Yeah, sure, but it's like I'm a designer.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 412.0,
+      "end": 415.0,
+      "text": "So I'd like figuring out like cool ways to.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 415.0,
+      "end": 416.0,
+      "text": "Is that you right there by the look?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 416.0,
+      "end": 417.0,
+      "text": "Is it the picture?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 417.0,
+      "end": 418.0,
+      "text": "Yeah, it's me.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 418.0,
+      "end": 419.0,
+      "text": "Hey.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 419.0,
+      "end": 421.0,
+      "text": "I'm just kidding.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 421.0,
+      "end": 422.0,
+      "text": "Maybe it was like harassing my bed.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 422.0,
+      "end": 424.0,
+      "text": "I don't care.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 424.0,
+      "end": 426.0,
+      "text": "People are going to try to find me.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 426.0,
+      "end": 427.0,
+      "text": "They'll find me, you know.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 427.0,
+      "end": 428.0,
+      "text": "Yeah, true.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 428.0,
+      "end": 429.0,
+      "text": "I'm pretty online.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 430.0,
+      "end": 431.0,
+      "text": "So, Kelly.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 431.0,
+      "end": 438.0,
+      "text": "Well, I guess, let me let me also answer the question of is this a common workflow for designers to potentially make whatever this is and then vibe code it?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 438.0,
+      "end": 440.0,
+      "text": "Um, vibe codeings like kind of new.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 440.0,
+      "end": 441.0,
+      "text": "I mean, I don't know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 441.0,
+      "end": 446.0,
+      "text": "I've technically been vibe coding since like GPT 3.5, but what we're about to do today.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 446.0,
+      "end": 447.0,
+      "text": "I don't know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 447.0,
+      "end": 449.0,
+      "text": "I don't know if it's common if it's a common workflow.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 449.0,
+      "end": 451.0,
+      "text": "It's kind of what we're doing.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 451.0,
+      "end": 453.0,
+      "text": "I want to see what issues we run into.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 453.0,
+      "end": 455.0,
+      "text": "Um, and like, like, I don't know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 455.0,
+      "end": 457.0,
+      "text": "We're kind of like a bends kind of our.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 457.0,
+      "end": 459.0,
+      "text": "Uh, getting pig, I guess.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 459.0,
+      "end": 460.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 460.0,
+      "end": 461.0,
+      "text": "And I'll just said your name.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 461.0,
+      "end": 462.0,
+      "text": "I'm not.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 462.0,
+      "end": 463.0,
+      "text": "No, it's fine.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 463.0,
+      "end": 471.0,
+      "text": "Um, but I was going to say also on top of that, too, like, there's a lot of people transitioning from using",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 471.0,
+      "end": 474.0,
+      "text": "Figma to other tools to design.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 474.0,
+      "end": 475.0,
+      "text": "I see separate.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 475.0,
+      "end": 477.0,
+      "text": "And that other tab.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 477.0,
+      "end": 480.0,
+      "text": "Yeah, I was looking at I was checking out subframe earlier.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 480.0,
+      "end": 486.0,
+      "text": "Um, but this is another tool that I discovered today, but it's like building you why four five go in.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 486.0,
+      "end": 490.0,
+      "text": "And it, um, let me see if I could go back here.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 490.0,
+      "end": 493.0,
+      "text": "Um,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 498.0,
+      "end": 499.0,
+      "text": "Yeah, this is interesting.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 499.0,
+      "end": 500.0,
+      "text": "I haven't seen this before.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 500.0,
+      "end": 507.0,
+      "text": "I'm excited to see this because I, I actually pretty often think like how can this become more accessible to people, you know, so it's cool to see this.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 507.0,
+      "end": 513.0,
+      "text": "Yeah, and I think the interesting thing to see what.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 513.0,
+      "end": 519.0,
+      "text": "Okay, yeah, it gives you all these like pre made templates that's like pretty common.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 519.0,
+      "end": 520.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 520.0,
+      "end": 521.0,
+      "text": "So we'll have to experiment with that a bit.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 521.0,
+      "end": 522.0,
+      "text": "But yeah, for sure.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 522.0,
+      "end": 523.0,
+      "text": "We definitely need to.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 523.0,
+      "end": 524.0,
+      "text": "I guess go.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 524.0,
+      "end": 527.0,
+      "text": "Yeah, something I'll definitely see say though off the bat is so far.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 527.0,
+      "end": 529.0,
+      "text": "I'm sure subframes and improve it so far.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 529.0,
+      "end": 532.0,
+      "text": "It seems like Figma you can get pretty custom, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 532.0,
+      "end": 534.0,
+      "text": "Oh, yeah, for sure.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 534.0,
+      "end": 537.0,
+      "text": "And that that's a big part of it, too, is like, um,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 537.0,
+      "end": 542.0,
+      "text": "a lot of people are talking about designing directly because you have to, um,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 543.0,
+      "end": 549.0,
+      "text": "um, pick designs from Figma and create something out of it instead of designing straight into like,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 549.0,
+      "end": 553.0,
+      "text": "Framer or Webflow or site or whatever, but yeah.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 553.0,
+      "end": 557.0,
+      "text": "The goal in mind that I have for this is it's going to be a phone app.",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 557.0,
+      "end": 561.0,
+      "text": "So it kind of has a different angle of five coding.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": "Yeah, definitely that's a phone.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 563.0,
+      "end": 566.0,
+      "text": "I actually have not mess with phone apps.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 566.0,
+      "end": 569.0,
+      "text": "Yeah, so it'll it'll be a good experiment.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 569.0,
+      "end": 571.0,
+      "text": "Yeah, it will be a lot to learn.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 571.0,
+      "end": 574.0,
+      "text": "I, for me, too, I actually, I haven't, like, done a lot of a phone,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 574.0,
+      "end": 576.0,
+      "text": "phone app stuff.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 576.0,
+      "end": 580.0,
+      "text": "Um, myself, like, in actual, like, an actual, like, practice.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 580.0,
+      "end": 581.0,
+      "text": "I'm down to try it.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 581.0,
+      "end": 582.0,
+      "text": "I'm down to try it.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 582.0,
+      "end": 587.0,
+      "text": "I'll, we can, I can definitely, like, understand it pretty quickly, too.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 587.0,
+      "end": 590.0,
+      "text": "Um, yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 590.0,
+      "end": 594.0,
+      "text": "Okay, okay, okay, what, what have I proposed something to you?",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 594.0,
+      "end": 599.0,
+      "text": "What if I read up on phone apps and we tried the phone app part in a later stream,",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 599.0,
+      "end": 602.0,
+      "text": "and this time we tried a mobile web app?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 602.0,
+      "end": 603.0,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    }
+  ]
+}

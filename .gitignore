@@ -14,8 +14,8 @@ __pycache__/
 venv/
 
 # Transcripts and outputs
-*.json
-*.txt
+*-transcript.json
+*-transcript.txt
 
 # Audio/video files
 *.mp3
